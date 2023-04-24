@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\Controllers\\": "App/Controllers",
+      "App\\Routes\\": "App/Routes"
+    }
+  }
+}
